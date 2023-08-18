@@ -51,42 +51,42 @@ let products = [
   {
     id: 1,
     name: "Strawberry, Fruit",
-    imageUrl: "../images/product-01.jpg",
+    imageUrl: "images/product-01.jpg",
     discription:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, atque.",
   },
   {
     id: 2,
     name: "Olive oil",
-    imageUrl: "../images/product-02.jpg",
+    imageUrl: "images/product-02.jpg",
     discription:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, atque.",
   },
   {
     id: 3,
     name: "Honey, Beekeeper",
-    imageUrl: "../images/product-03.jpg",
+    imageUrl: "images/product-03.jpg",
     discription:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, atque.",
   },
   {
     id: 4,
     name: "Nuts, Walnuts",
-    imageUrl: "../images/product-04.jpg",
+    imageUrl: "images/product-04.jpg",
     discription:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, atque.",
   },
   {
     id: 5,
     name: "Churros, Bakery",
-    imageUrl: "../images/product-05.jpg",
+    imageUrl: "images/product-05.jpg",
     discription:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, atque.",
   },
   {
     id: 5,
     name: "Currants, Berry,",
-    imageUrl: "../images/product-06.jpg",
+    imageUrl: "images/product-06.jpg",
     discription:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, atque?",
   },
