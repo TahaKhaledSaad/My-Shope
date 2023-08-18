@@ -32,6 +32,11 @@ if (localStorage.getItem("username")) {
 }
 
 let logOutBtn = document.querySelector("#logout");
+if (!localStorage.getItem("username")) {
+  // i want to remove (sign in/up) icons to put user data
+  logOutBtn.remove();
+  hideIcon.remove();
+}
 logOutBtn.addEventListener("click", () => {
   localStorage.clear();
   setTimeout(() => {
