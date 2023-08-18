@@ -403,14 +403,13 @@ nav ul#user_info {
 }
 
 .product_item:hover .image {
-  transform: scale(1.05);
+  box-shadow: 0 0 10px rgb(0 0 0 / 60%);
 }
 
 .product_item .image img {
   width: 250px;
   border-radius: 15px;
-  box-shadow: 0 0 10px rgb(0 0 0 / 60%);
-  border: 1px solid white;
+  border: 1px solid #ddd;
 }
 
 .product_item .info h3 {
